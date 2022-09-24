@@ -1,4 +1,4 @@
-# Easy-Rider-Bus
+# Easy-Rider-Bus-Company
 ## EN
 ### Description
 The "Easy Rider Bus" project aims to verify the data content of JSON files for accuracy for a fake bus company. Sktypt contains 6 pilk checking functions:
